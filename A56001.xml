@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>False fictions and romances rebuked in answer to pretended matter charged against the Quaker, in a book, intituled, The progress of sin, &amp;c. written by B. K. His lies and slanders therein returned back upon him, and the speakers of yea and nay in truth vindicated. By James Park.</title>
+            <author>Parke, James, 1636-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56001</idno>
+            <idno type="STC">Wing P367</idno>
+            <idno type="STC">ESTC R216931</idno>
+            <idno type="EEBO-CITATION">99828644</idno>
+            <idno type="PROQUEST">99828644</idno>
+            <idno type="VID">33075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56001)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33075)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1931:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>False fictions and romances rebuked in answer to pretended matter charged against the Quaker, in a book, intituled, The progress of sin, &amp;c. written by B. K. His lies and slanders therein returned back upon him, and the speakers of yea and nay in truth vindicated. By James Park.</title>
+                  <author>Parke, James, 1636-1696.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>B. K. = Benjamin Keach. This work is a reply to: Keach, Benjamin.  The progress of sin. 1684.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keach, Benjamin, 1640-1704. --  Progress of sin.</term>
+               <term>Progress of sin --  Controversial literature --  Early works to 1800.</term>
+               <term>Society of Friends --  England --  Apologetic works --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33075:1" rendition="simple:additions"/>
+            <p>
+               <hi>Falſe Fictions</hi> AND ROMANCES REBUKED: In Anſwer to Pretended Matter Charg<g ref="char:EOLhyphen"/>ed againſt the <hi>QUAKER,</hi> in a Book, Intituled, <hi>The Progreſs of Sin, &amp;c.</hi> Written by <hi>B. K.</hi> His Lies and Slanders therein returned back upon him, and the Speakers of YEA and NAY in Truth Vindicated.</p>
+            <p>By JAMES PARK.</p>
+            <q>
+               <bibl>Pſal. 7. 14.</bibl>
+               <p>Behold he Travelleth with Iniquity, he hath conceived Miſ<g ref="char:EOLhyphen"/>chief, and brought forth Falſhood.</p>
+            </q>
+            <q>
+               <bibl>Ibid. v. 16.</bibl>
+               <p>His Miſchief ſhall return upon his own Head, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1684.</p>
+            <pb facs="tcp:33075:2" rendition="simple:additions"/>
+            <pb facs="tcp:33075:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33075:3"/>
+            <pb n="3" facs="tcp:33075:3"/>
+            <head>Falſe FICTIONS and RO<g ref="char:EOLhyphen"/>MANCES Rebuked, &amp;c.</head>
+            <p>I Have lately met with a Book intituled, <hi>The Progreſs of Sin,</hi> &amp;c. it appears to be written by the Author of <hi>War with the Devil;</hi> in the Title Page, for his Name is only ſet <hi>B. K.</hi> towards the latter end of his <hi>Progreſs of Sin,</hi> he ſeems concerned in his Ma<g ref="char:EOLhyphen"/>jeſtical Attempts to <hi>Try, Condemn and Execute Tyrant Sin,</hi> (as he calls it) but could not plainly tell how to demonſtrate its <hi>Nature</hi> in any ſort of People, eſpecially the <hi>Quaker,</hi> whom he Expoſeth and Derideth for his ſpeaking <hi>Yea</hi> and <hi>Nay,</hi> beginning with him by a Miſrepreſentation of his Zeal and Sanctity, then making him ſpeak, what (I dare ſay) he never ſaid, nor can he prove it: But however
+<hi>Tryed,</hi> and <hi>Condemned</hi> to reproach muſt the <hi>Quaker</hi> be by this
+<hi>Baptiſt Teacher,</hi> really for what it remaines for him to make appear in his next
+<hi>Progreſs of Sin,</hi> if he knew how; for in his <hi>laſt</hi> he hath come ſo far ſhort thereof, that I think every ſollid <hi>Chriſtian Reader</hi> may apprehend him ſo baffled in his <hi>War with the Devil</hi> and <hi>Progreſs of Sin,</hi> as now ſet at variance, and fight<g ref="char:EOLhyphen"/>ing with his own ſhaddow: and his <hi>War with the Quaker</hi> is, as if he had no skill to make one fair <hi>blow</hi> at him, although his Wicked <hi>Fiſts</hi> are lifted up high enough to knock him on the Head at once, were not the <hi>Angel</hi> of <hi>Gods Preſence</hi> with him, to keep him in ſafety from the power of his <hi>Fiſts</hi> of
+<hi>Wickedneſs. Sober Men</hi> may judge that he might have forborn his <hi>barking</hi> and
+<hi>biting</hi> alſo at the <hi>Quaker</hi> at his ravenous rate, at ſuch a day of ſuffering as this is, upon all <hi>Diſſenters</hi> from the publick Worſhip of the Nation; what in his
+<hi>Progreſs of Sin</hi> I found by way of Charge againſt the <hi>Quaker,</hi> I return him this following Anſwer, being as much as I judged Expedient it might deſerve, <hi>Truth</hi> or
+<hi>Reallity</hi> not ap<g ref="char:EOLhyphen"/>pearing in his Proceedings againſt the <hi>Quaker</hi> by his Imaginary Court, or what he hath printed in his <hi>Progreſs of Sin</hi> againſt him: he imagined ('tis like) it might be ſome pleaſing Food to ſuch of his Brethren<g ref="char:punc">▪</g> that are moſt in Enmity &amp; Prejudice againſt the <hi>Quaker,</hi> if none elſe would bite at it or taſte it; however certain I am, it can do good to none, plainly
+<pb n="4" facs="tcp:33075:4"/> proceeding from an <hi>Evil Fountain,</hi> the Father of <hi>Falſhood, Deceit</hi> and <hi>Lies.</hi>
+            </p>
+            <p>
+               <hi>B. K.</hi> in page 241. of thy <hi>Progreſs of Sin,</hi> &amp;c.</p>
+            <p>Thou haſt taken upon thee in thy dark Imaginary Mind and Spirit, to ſearch for and find out Mr. <hi>Erroneous</hi>'s <hi>Houſe</hi> (as thou call'ſt it) <hi>of the Town of Hereſie, where,</hi> thou ſay'ſt, <hi>Sin was found hid under the plain Cloak of</hi> Yea <hi>and</hi> Nay, <hi>with pretended Zeal and ſeeming Sanctity:</hi> What! Could'ſt thou not find out thy Mr. <hi>Erroneous</hi>'s <hi>Houſe</hi> of the Town of <hi>Hereſie</hi> no where, but under the
+<hi>plain Cloak of</hi> Yea <hi>and</hi> Nay, as in
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Unrighteous Smite it appears? the <hi>Quaker</hi> thou aim'ſt thy blow at, with thy Fiſt of <hi>Wickedneſs, Errour</hi> and <hi>Hereſie,</hi> if thou had'ſt ſearched for it with the <hi>Light</hi> of <hi>Chriſt,</hi> and the
+<hi>Spirit</hi> of the <hi>Lord,</hi> thou needeſt not to have gone ſo far as the <hi>plain Cloak of</hi> Yea <hi>and</hi> Nay to have found it; for thou might'ſt have found it near thee, under thy <hi>faſhi<g ref="char:EOLhyphen"/>onable painted falſe Cover</hi> with thy Multitude of Words, that want not Sin, nor ſhall profit the People at all, however thou may flatter thy ſelf in thy vain Imagination; the true Zeal and Sanctity of the People that have been directed by the Lord and the Rule of <hi>Scriptures</hi> to <hi>Yea</hi> and <hi>Nay</hi> in all our <hi>Communication,</hi> thou can'ſt not make void; and if thou <hi>Swear,</hi> or thy <hi>Communication</hi> be not
+<hi>Yea</hi> and <hi>Nay,</hi> then it cometh of <hi>Evil, Mat.</hi> 5. 37.</p>
+            <p>Thou art ſo haſty and furious for the <hi>Tryal</hi> of thy pretended <hi>Sin</hi> of
+<hi>Errour</hi> and <hi>Hereſie,</hi> which thou unwarrantably ſay'ſt was found under the
+<hi>plain Cloak of</hi> Yea <hi>and</hi> Nay; that with thy Fictions and Lies, (like thy Brother
+<hi>Hicks</hi>) thou reſolveſt to diſpatch his <hi>Tryal,</hi> to Try and Sen<g ref="char:EOLhyphen"/>tence him that ſpeaks <hi>Yea</hi> and <hi>Nay,</hi> contrary to his Knowledge of thy intent, he having no ſummons before thy Narrative of the pretended <hi>Tryal</hi> of him was Printed, and thou waſt afraid, <hi>Thou ſhould'ſt not have Room, the Preſs calling upon thee to Abreviate,</hi> &amp;c.</p>
+            <p>But if thou hadſt had true Chriſtian Charity towards the Deſpiſed Speakers of
+<hi>Yea</hi> and <hi>Nay,</hi> thou wouldſt have been more Cautious and Deliberate in thy Proceedings, then to Judge and Sentence him, and not really to tell him thy Unchriſtian Deſign againſt him. <hi>Room</hi> to <hi>Range</hi> in, I ſee not how thou couldſt want, and if thou hadſt kept this thy Evil Work from the <hi>Preſs,</hi> till any <hi>Preſs</hi> in
+<hi>London</hi> called for it, I queſtion its coming at any of them. God be thanked, the truly Zealous and Sanctified <hi>Quaker</hi> is not in thy <hi>hold,</hi> as thou imagineſt; if he were really ſo, no good or comfort haſt thou given him cauſe to ex<g ref="char:EOLhyphen"/>pect
+<pb n="5" facs="tcp:33075:4"/> from thee; but what <hi>Chief Conſtables Hand</hi> is he in? away with thy Fictions and Imaginations; be plain, if falſe Forgery and Deceit have not ſo blinded thee and hardened thy heart, that thou knoweſt not how and what <hi>Officers</hi> were they thou darkly mentions. Doeſt thou not know, that thy <hi>Trumpet</hi> hath given an un<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertain ſound, and there is none that are come to that which is certain will haſten to or matter thy un<g ref="char:EOLhyphen"/>juſt and unrighteous <hi>Trumpet,</hi> and
+<hi>Tryal</hi> with thy fooliſh Imagining a <hi>Bench.</hi>
+            </p>
+            <p>Page 242. thou pretends <hi>Sacred Scripture to be Judge of thy Bench,</hi> attended with ſo many of thy Imagined <hi>Sirs,</hi> framed up in thy Senſual Mind, that ſeldome if ever hath been known the like to try <hi>Tyrant Sin<g ref="char:punc">▪</g>
+               </hi> but if all thy <hi>Sirs</hi> except
+<hi>Anti-Chriſtian Oppoſition,</hi> might really have heard the <hi>Quakers Juſt Plea</hi> for himſelf, without thy taking upon thee to make up a <hi>Judge</hi> and <hi>Jury</hi> of thy own deviſing, moſt of thy <hi>Sirs</hi> might have ſeen juſt cauſe to adhere thereunto, and not according to thy Evil deſire have brought the <hi>Quaker</hi> in <hi>Guilty</hi> with
+<hi>Tyrant Sin:</hi> I know not what or whom thou meaneſt, let them concerned look to that: for ſome other People beſides the Quaker thou muſt alſo aim at, which thou was not ſo willing plainly to name. The <hi>Sacred Scripture,</hi> the Quaker owns the Authority of, to diſcover and condemn <hi>Sin</hi> and <hi>Errour,</hi> contrary to what thou (like thy Brother <hi>Hicks</hi> in his Dialogues) haſt forged that upon the Quaker, as ſaid by him, which he nor thou cannot prove a<g ref="char:EOLhyphen"/>gainſt the Quaker, or that it was ever ſaid by him, whom thus groſly thou haſt belied and abuſed.</p>
+            <p>The <hi>Scriptures of Truth,</hi> which thou pretends to be thy Judge, will never juſtifie thee in this thy Unſcriptural work of making the Quaker ſpeak in page 245. as <hi>Denying the Authority of the Scriptures,</hi> &amp;c. without any mention of who it was, when it was, or where any ſuch Expreſſions were really uttered by the Quaker: And the God of Hea<g ref="char:EOLhyphen"/>ven and Earth to whoſe Righteous Judgment the Quaker can boldly ap<g ref="char:EOLhyphen"/>peal for Judgment againſt thee in this matter, knoweth how innocent the Quaker is of this thy Helliſh Charge; and I doubt not but will quit the Quaker ſhortly from thee and it, by wiping away that reproach thou and ſuch like have from time to time endeavoured to caſt upon the Quaker, by your Fictions and Lies, which in your Malicious Minds you have Forged and Printed againſt him; thy fictious <hi>Conviction</hi> by thy pretend<g ref="char:EOLhyphen"/>ed <hi>Jury,</hi> which thou falſly calls <hi>Worthy Gentlemen,</hi> will prove
+<hi>Rotten Judgment, Corrupt Reaſon, Darkened <g ref="char:V">Ʋ</g>nderſtanding, Slaviſh Fear,
+<pb n="6" facs="tcp:33075:5"/> Wicked Revenge, Carnal Indignation, Wicked Deſire, Helliſh Zeal</hi> in the Town of <hi>Ignorance, Dead Faith, Feigned Love, Hypocryſie</hi> and <hi>Partialli<g ref="char:EOLhyphen"/>ty,</hi> which thou appears full of and acted by in thy late undertakings, which will be thy Burden too hard for thee long to bear: So, thy <hi>Charge, Indictment,</hi> with thy <hi>Jury,</hi> ſo many
+<hi>Maſters</hi> made up in the dark Cham<g ref="char:EOLhyphen"/>ber of Imaginations of thy Vain and Deceitful Heart, reacheth not the Quaker, but more reacheth ſuch as thy ſelf, whoſe Wickedneſs will be ſearched out by him that ſeeth it altogether, and will bring it upon thy own Head, ſly whether thou wilt with thy <hi>Vain Dark Shifts,</hi> the Righ<g ref="char:EOLhyphen"/>teous Judge of Heaven and Earth will find thee out, and reward thee according to thy Works of Darkneſs.</p>
+            <p>Where doth the <hi>Sacred Scripture,</hi> thy pretended <hi>Judge</hi> of thine Ima<g ref="char:EOLhyphen"/>gined
+<hi>Court</hi> bid any there <hi>to take off the</hi> Quakers <hi>Hatt?</hi> anſwer me plainly: ſurely, if thou were not ignorant of the <hi>Scripture,</hi> that <hi>Equal Judge,</hi> and the profitableneſs thereof <hi>to make the Man of God perfect, through Faith in Chriſt Jeſus,</hi> thou wouldeſt not have given <hi>Sacred Scrip<g ref="char:EOLhyphen"/>ture,</hi> thy pretended
+<hi>Judge</hi> and <hi>Rule,</hi> as thou haſt done, the Lie: Its no marvell that thou haſt the Art to <hi>forge</hi> ſo many falſe things againſt the Quaker, when thou canſt do ſo by thy <hi>Judge,</hi> as thou pretends <hi>Sacred Scripture,</hi> as if that ſhould ſay in thy falſly framed <hi>Court</hi> to ſome there, <hi>Take off the</hi> Quakers <hi>Hatt;</hi> and ſay further, Friend, <hi>what is the Reaſon that you go about to hinder the Orderly Proceedings of this Court a<g ref="char:EOLhyphen"/>gainſt this Criminal?</hi> (page 244 of thy <hi>Progreſs of Sin</hi>) this is ſo unlike <hi>Sacred Scripture,</hi> and ſo far contrary to the Language thereof, as if this
+<hi>Baptiſt</hi> Teacher had forged new <hi>Scripture,</hi> as well as framed a new Form of
+<hi>Judicature</hi> now in <hi>England,</hi> that himſelf ſhould have the ſway of, and thereby to Save and Condemn whom he pleaſed by his newly E<g ref="char:EOLhyphen"/>rected <hi>Court of Juſtice,</hi> the Form and Manner of it much <hi>
+                  <g ref="char:V">Ʋ</g>nheard</hi> of and <hi>
+                  <g ref="char:V">Ʋ</g>nknown</hi> in <hi>England.</hi> What would this vain Man be at? Who ſeems ſo Ambitious after Superiority, that by his Trumpet he ſeems to have ſo many <hi>Sirs, Attorney General,</hi> &amp; <hi>Solicitor General,</hi> with ſo many <hi>Maſters</hi> at his command, as a formed <hi>Court;</hi> his Mr.
+<hi>Chriſtianity,</hi> and <hi>Primitive Purity</hi> are ſo far from being really that, that they are by me ſcarce worth mentioning, with which he makes ſuch a confuſed noiſe now in City and Country<g ref="char:punc">▪</g> that <hi>Real Chriſtianity</hi> and <hi>Primitive Purity</hi> indeed he will more make People deaf to, then any ways be Inſtrumental to open their Ears to it.</p>
+            <p>What Quaker hath ſaid to thy Imagined Mr. <hi>Chriſtian, My Name</hi>
+               <pb n="7" facs="tcp:33075:5"/> Friend, <hi>thou its like cannot underſtand if I ſhould tell thee?</hi> Where and when was this? ſhew if thou canſt, or elſe ceaſe thy thus ſmiting the Quaker, whom ſo unrighteouſly thou oppoſeth to thy Mr. <hi>Chriſtian,</hi> manifeſting the Gall of Bitterneſs that is in thy hard Heart, who ſeemeſt as if thou well knew not how to vent it enough againſt the Diſpiſed Suffer<g ref="char:EOLhyphen"/>ing <hi>Chriſtian-Quaker;</hi> ſurely God, nor any that are really of him, neither the Holy Scriptures, doth Judge or Condemn the Quaker for going about to Obſtruct or hinder the Diſorderly proceedings of thy <hi>Corrupt Court,</hi> hatched through the vain Imaginations of thy Evil Heart againſt the Innocent Quaker.</p>
+            <p>Thou <hi>Miniſter of Sin,</hi> when and where did the Quaker ſay to thee or thy Queſtion (page 245 of thy <hi>Progreſs of Sin</hi>) to wit, <hi>Who is the proper Judge?</hi> &amp;c. What
+<hi>Quaker</hi> anſwered, <hi>The Light within all Men or divine Revelation?</hi> And that ſaid, <hi>He diſowned</hi> Sr. <hi>Sacred Scripture to be the Judge?</hi> &amp;c. Or <hi>that People have in an Idolatrous manner ſo long adored him?</hi> bring forth the <hi>Quaker</hi> that uttered theſe ſayings, or elſe confeſs thy ſelf to be a forger of Lies, and ſo ceaſe thy Scribling.</p>
+            <p>And where was it, and what Quaker ſaid, <hi>I do not believe what</hi> Sr. <hi>Sa<g ref="char:EOLhyphen"/>cred Scripture teſtifieth; or what is it but a lifeleſs Fellow, a pittiful Paper Judge, a dead Letter:</hi> If thou could as readily Prove all that againſt him, as thou art Impudent in Accuſing of him, it were ſomething to thy Evil purpoſe and deſign againſt him, which the Eternal God will certainly con<g ref="char:EOLhyphen"/>found and blaſt; and till then thou doſt but ſtill further manifeſt thy own Folly and great Ignorance of the Word of God.</p>
+            <p>In thy Enmity and Wickedneſs, in page 246. thou goeſt about more plainly to ſhew thy miſchievous deſire againſt the Quaker, by making him <hi>Brother in Iniquity</hi> with the
+<hi>Jeſuit,</hi> and as if the <hi>Jeſuit</hi> ſhould ſay to the <hi>Quaker, Well ſaid Brother,</hi> &amp;c. when thou falſly chargeth him, <hi>Not to believe what Sacred Scripture teſtifieth;</hi> and that he ſhould ſay, <hi>What is it but a lifeleſs Fellow, a pittiful Paper Iudge,</hi> &amp;c. which words I dare affirm no Quaker ever ſpoke: Thy <hi>War with the Devil</hi> thou think'ſt thou art ſo good at, it will certainly be ineffectual, as long as thou art thus led by the Spirit of the Father of Lies, uſing thy Tongue to ſpeak, &amp; thy Pen to publiſh thus Lies and Falſhood, for which with thy other Wickedneſs the Lord I know will rebuke thee, and (may be) ſtir up ſome of thy own <hi>Perſwaſion</hi> to manifeſt a diſlike of this thy confuſed and hideous a<g ref="char:EOLhyphen"/>buſing of the Quaker.</p>
+            <p>And if thou Judge it ſo <hi>Criminal</hi> for the <hi>Ieſuit</hi> and the <hi>Quaker</hi> to agree
+<pb n="8" facs="tcp:33075:6"/> in ſome things; may be thou and others of thy Brethren will be proved more highly guilty thereof then the Quaker: who knoweth not yet, but the <hi>Ieſuits</hi> may retain ſomething, that in it ſelf may be good: Shall I utterly renounce what is good, becauſe a
+<hi>Ieſuit</hi> holds the ſame? I know no reaſon for that, whatſoever the unreaſonable
+<hi>Baptiſt Teacher</hi> ſaith of the Quaker, one while agreeing with the <hi>Papiſt,</hi> and another while in the ſame Page they differ: the pure Light of Chriſt Jeſus, or Immediate Re<g ref="char:EOLhyphen"/>velation from God, being really experienced to give Light and under<g ref="char:EOLhyphen"/>ſtanding to the Saints, doth no ways leſſen or make void the Divine Authority of the <hi>Holy Scriptures,</hi> but rather thereby the Children of Light and of the Day, are more and more confirmed in the belief of the Holy and Divine Authority of Sacred Scripture. O Man! thou wilt one day be tormented to thy great grief and ſorrow of thy Heart, in that thou haſt been ſo ſenſual, not only to joyn the <hi>Quaker</hi> and <hi>Ieſuit</hi> to<g ref="char:EOLhyphen"/>gether as <hi>Brethren</hi> in <hi>Iniquity,</hi> but alſo haſt Blaſphemonſly excluded the Light of Chriſt within Man and Woman (that the
+<hi>Quaker loveth,</hi> and the <hi>Scriptures Extol</hi> highly, and alſo <hi>Revelation</hi>) from being Judge of Faith and Practice, putting not that difference that deſervedly thou might by diſtinguiſhing the <hi>Light</hi> of <hi>Chriſt</hi> from the <hi>Pope</hi> or his
+<hi>Church:</hi> What! Is thy Darkneſs ſo great, that <hi>Revelation from God</hi> is of no better eſteem with thee then <hi>Pope</hi> or <hi>Church</hi> of <hi>Rome?</hi> which thou ſeemeſt to hate alſo, that its manifeſt, that thou doſt not love but hate the Light within, and <hi>Revelation,</hi> equally as thou hateſt the <hi>Pope,</hi> if not more; wiſhing doubtleſs as bad to him and his Church, as thou doeſt the Quaker which in time juſtly may be recom<g ref="char:EOLhyphen"/>penced upon thee, for thou not only thinks but ſpeaks Evil, and it will deſervedly purſue thee</p>
+            <p>Surely, all that will may ſee, how this <hi>Baptiſt Teacher</hi> (if he had power in his hands) hath a mind, and how his Fingers itcheth to be fin<g ref="char:EOLhyphen"/>gering or roughly handling the Quakers, by his pretended <hi>Trumpet,</hi> ſounding for to prepare his Imagined <hi>Bench of Iuſtice,</hi> to <hi>Try, Iudge,</hi> and <hi>find Guilty</hi> the <hi>Quaker</hi> of
+<hi>Errour</hi> and <hi>Hereſie:</hi> Sins indeed, if he could as readily prove againſt him, as feignedly he hath charged him; but I am ſure the Reader may read long enough in his
+<hi>Progreſs of Sin,</hi> before really he can find any thing of plain prooff of this againſt the Quaker, how fallaciouſly and blackly ſoever in his Wicked Mind he hath charged him with the great <hi>Sin</hi> of <hi>Errour</hi> and <hi>Hereſie:</hi> and I think
+<pb n="9" facs="tcp:33075:6"/> ſcarce any People of any other Profeſſion, ſave only <hi>Papiſts,</hi> that his Charge runs ſo directly againſt. The Reader muſt take for granted if he will that
+<hi>Anabaptiſts, Independants</hi> and <hi>Presbyterians,</hi> &amp;c. are quite clear of theſe his Charges; and the Quaker, whoſe <hi>Yea</hi> is <hi>Yea,</hi> and whoſe <hi>Nay</hi> is
+<hi>Nay,</hi> need not fear the uncertain ſound of this <hi>Baptiſt Teachers</hi> Trumpet, nor his Bench, Jury, or Witneſſes, that he hath pretended to Convict them by, who might have ſaved that labour to call Sr. <hi>Sublime Matter</hi> with his thirteen Imagined Sirs more, as phantaſtical<g ref="char:EOLhyphen"/>ly he takes upon him to make Knights and Gentlemen at his pleaſure, none of them worth mentioning, ſave to manifeſt the Folly and Ridicu<g ref="char:EOLhyphen"/>louſneſs of their Maker. Surely, the way he takes may bring diſtreſs upon <hi>Sion,</hi> but will not help her nor comfort her when diſtreſſed.</p>
+            <p>I have heard that this Author of <hi>The Progreſs of Sin,</hi> writ another Book, called,
+<hi>War with the Devil;</hi> but if that be written from that Spi<g ref="char:EOLhyphen"/>rit wherein he writ this, he will be foiled and ſadly worſted by the Devil in his encounter; and <hi>B. K.</hi> thou wilt know that the Quaker doth quite ſlight thy Romantick Conceit of thy Created Sirs and Gentlemen, as thou calls them, and all that which thou feigneſt they have to ſay a<g ref="char:EOLhyphen"/>gainſt him thou audaciouſly condemneſt, and would have deſtroyed, elſe what doſt thou mean by thy thus not only holding up thy Wicked Fiſts againſt, but ſtriking and ſmiting, as if thou had a mind to <hi>Blood;</hi> and if thou delight therein, it will purſue thee: if thou had'ſt had any real Charity, thou doubtleſs would have conſidered the ſeveral <hi>Laws</hi> of Men, and
+<hi>Courts</hi> of Juſtice, by which the Quakers are frequently expoſed to Sufferings and Spoils already; but it ſeems, thou judgedſt all of that kind too little Puniſhment for the Quaker, although may be thou thinks it a great deal too much for you <hi>Baptiſts:</hi> If thou hadſt had any real matter thou could have proved againſt the Quaker, with abſolute power to have <hi>Tryed</hi> and <hi>Puniſhed</hi> this thy ſuppoſed<g ref="char:punc">▪</g> 
+               <hi>Criminal; few</hi> &amp; <hi>Evil</hi> it's like would'ſt thou have made the <hi>Days</hi> of his
+<hi>Pilgrimage;</hi> thou baſt given the Quaker little cauſe to expect better from thee then the <hi>Gallows,</hi> which the <hi>Quaker</hi> met with from that Spirit that thy <hi>Court of Juſtice</hi> is managed by in thy <hi>Presbyterian Brethren</hi> in <hi>New-England:</hi> They were going the way to quit that Country by the <hi>Gallows</hi> of the <hi>Quakers</hi> there, had not the King in time ſtopt them, and put a Bridle to their <hi>Murderous Proceedings</hi> in their <hi>Bloody Courts:</hi> It may be eaſily ſeen, what this <hi>Baptiſt Teacher</hi> would be doing (had he power in his hands) with the Quaker.</p>
+            <p>
+               <pb n="10" facs="tcp:33075:7"/>How far the <hi>Papiſts</hi> are guilty of his Charge, they know beſt; I wiſh all Men well, deſiring they might as well quit themſelves of <hi>Errour</hi> and
+<hi>Hereſie,</hi> as the Quaker can; which is his great Comfort and Hap<g ref="char:EOLhyphen"/>pineſs at this day, which this envious <hi>Baptiſt Teacher</hi> cannot take from him, nor all his <hi>Brethren</hi> in <hi>Iniquity</hi> with him; and God I hope will <hi>ſend a good deliverance to the</hi> Quaker, and deliver him from the Power of Hell acting its ſelf in this <hi>Baptiſt Teachers Court.</hi>
+            </p>
+            <p>He ſaith in his Preface to his <hi>Progreſs of Sin; That he hath endea<g ref="char:EOLhyphen"/>voured to avoid all occaſion of Offence, not reflecting on any Mans perſon, &amp;c. though all kinds of Sins be juſtly expoſed, and Sinners re<g ref="char:EOLhyphen"/>prehended.</hi>
+            </p>
+            <p>It's true, that thou haſt not named any Perſons, but people as the Quaker and Jeſuits, ſo reflecting on them in thy Book, that I find there's no <hi>Baptiſt, Independant</hi> or
+<hi>Presbyterian,</hi> &amp;c. by the Name they are diſtinguiſhed in their Profeſſion of Religion, but if Sinners, as thou makes them, be the perſons of the Quakers and Jeſuits, thou haſt plain<g ref="char:EOLhyphen"/>ly pointed at, nay, ſingled out them by the Name they go under, not ſo (by thy uſurped power of a Court) proceeding with any of the other <hi>Criminals;</hi> for peradventure they are the beſt of the Flock in thy Eye, thou wouldeſt ſpare, as did <hi>Amaleck;</hi> and however thou haſt reprehended Perſons or Sinners through thy Book, thou wilt be found a Forger of Lies and falſe Fictions againſt the Quaker, whom in page 241. thou ex<g ref="char:EOLhyphen"/>poſeſt under the
+<hi>plain Cloak of <hi>Yea</hi>
+               </hi> and <hi>Nay,</hi> with <hi>pretended Zeal,</hi> and
+<hi>ſeeming Sanctity;</hi> might thou not almoſt as well have expoſed by their proper Names moſt that are called Quakers, whoſe <hi>Zeal</hi> for God in this day I doubt not but will prove right, and their Sanctity really of the Lord Jeſus Chriſt, notwithſtanding the vain Taints, Scorn and De<g ref="char:EOLhyphen"/>riſion, wherewith in thy <hi>Progreſs of Sin</hi> thou haſt appeared againſt ſpeaking of <hi>Yea</hi> and <hi>Nay,</hi> and the Quakers <hi>Zeal</hi> and
+<hi>Sanctity,</hi> I hope that will abide right and ſincere towards God and his Work, when the
+<hi>Zeal</hi> and <hi>Sanctity</hi> of this <hi>Baptiſt Teacher</hi> will ſtand him in little ſtead, his <hi>Zeal</hi> being <hi>Fury,</hi> and his <hi>Sanctity, Enmity;</hi> coming ſorth in a confuſed heap of Imaginations and Divinations of his own Brain, which if it had not been craſie, might have foreſeen, he gave ſome juſt occaſion to the <hi>Quaker</hi> and
+<hi>Papiſt</hi> to be offended at him for joyning them toge<g ref="char:EOLhyphen"/>ther in a Brotherhood in Iniquity, and guilty of <hi>Impoſture, Hereſie</hi> and <hi>Errour:</hi> But he muſt make another Statute Book then the New or Old Teſtament, for this Court of his Erecting to Proceed upon, before he
+<pb n="11" facs="tcp:33075:7"/> can make good his Charge againſt the Quaker, for the Old and New Teſtament ſufficiently witneſſeth for the Quaker, againſt this unjuſt Ac<g ref="char:EOLhyphen"/>cuſer and his Whimſies.</p>
+            <p>
+               <hi>B. K.</hi> I Charge thee in the Truth of God (which is over all thy de<g ref="char:EOLhyphen"/>ceit) to bring forth thy <hi>High-Conſtable</hi> mentioned by thee to prove the Quaker ſuch a <hi>Criminal,</hi> as thou haſt rendered him page 245. that his Name is <hi>Impoſture,</hi> alias,
+<hi>Erroneous,</hi> and what <hi>Hereſie thou took the</hi> Quaker <hi>Priſoner in?</hi> Or
+<hi>that he endeavoured to hide under the Cloak of Light, Life</hi> and <hi>Power?</hi> Though that is a better Covering to hide under, then Darkneſs, Death and its Power: Will not <hi>Woe</hi> from God come upon thee and all People that cover themſelves with a nother Covering then that of God's Holy Spirit? which is one with the Light, Life and Power of God forever: Divide or ſeperate them if thou canſt; what is thy Cloak thou haſt over thee, that is contrary to the Light, Life and Power of God? ſurely, it is but Darkneſs and Death, or Figg-leaves, that hide not thy Nakedneſs from them, that are in this Light, Life and Power of the Lord; ſuch ſee ſufficiently the ſhame of thy Nakedneſs, although People not come thereunto, may look upon thee as well gifted, and thy Confuſed Work of Eminent Worth.</p>
+            <p>Thou Forger of Lies and Enemy of the Truth and Righteouſneſs, what Quaker was it, that yet ever denyed the Scripture Authority? Or ſaid to it, <hi>Art thou the Iudge of Sin and Errour? away with thee;</hi> ſhew where this was ſaid, and the time when, or elſe thou gives the Qua<g ref="char:EOLhyphen"/>ker ground to proclaim thee a very great and grand Son to the Father of Lies, and to cry,
+<hi>Away with this Son of Pordition;</hi> and the Quaker may well believe thou art not the
+<hi>Juſt Man</hi> that ſinneth not, who haſt proved ſo unjuſt to him; and that if ever thou had any goodneſs, like the early dew, it is paſſing away, and that thou art ſo drunk with, and needleſly cumbers thy Mind about many things, to no purpoſe, in thy late troubleſome Work, is very apparent to him that hath an eye to ſee with; thou one day wilt be made to know (beſure) that that thou haſt written againſt the Quaker, is black, falſe and offenſive enough; making him in thy ſenſual Mind to call <hi>Sacred Scripture, A Dumb Idol;</hi> where<g ref="char:EOLhyphen"/>as the living God knoweth that the Quaker never had ſuch a thought, much leſs ſpoke it at any time.</p>
+            <p>And thou haſt not at all proved thy Charge againſt the Quakers in the margin of thy aforementioned page; that they <hi>deny The Sacred Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="12" facs="tcp:33075:8"/> to be the judge of Sin and Controverſie about Religion and Worſhip;</hi> but I doubt that thou doſt buſie thy ſelf ſo in <hi>Controverſy about Religion and Worſhip of God,</hi> that thou wilt ſcarce in all thy Travels come to that <hi>Pure Religion that is undefiled before God,</hi> or his Worſhip in Spirit and Truth. So till thou have fairly and fully proved the Crimes againſt the Quaker, which thou haſt publiſhed as his, Sin enough will lye at thy door, where I leave it, till thou find a place for Repentance; and then thou wilt find thy Travails to be thoſe of Ungodlineſs, (at leaſt, ſo far as they relate to the Quaker) even a travelling with Iniquity, and the bringing forth Falſhood, with the poyſon of
+<hi>Asps</hi> under thy Tongue; for the great Myſtery of Godlineſs in thy Imaginary Travails canſt thou never find out nor give a right Deſcription of; but art a great Stranger thereunto; and as if the Profeſſion of Godlineſs were a ſufficient <hi>Cloak</hi> for thee: If thou haſt any thing of the Form of Godlineſs, yet the power thereof thou ſeems very ignorant of, ſo that the Quaker hath ſtill reaſon ſufficient to turn away from thee and all ſuch
+<hi>Formaliſts</hi> and de<g ref="char:EOLhyphen"/>ceitful Works of Iniquity.</p>
+            <p>
+               <hi>Written in the Fear and Dread of the Lord God, (for the honour of his Name, and to clear his Truth and People that walk in it, from the reproach and ſcandal this Oppoſer hath endeavoured to caſt upon the ſame, with his Fictions and Romances) by a true lover of Godlineſs in Life and Power, highly eſteeming the Divine Authority of the Holy Scriptures.</hi>
+            </p>
+            <div type="part">
+               <pb n="13" facs="tcp:33075:8"/>
+               <head>Something further, partly by way of Query.</head>
+               <p>WHat <hi>Quaker</hi> was that which in page 248. is ſaid to ſay, <hi>I am ſure, I ſhould have known as much of Chriſt as now I do, if I had never heard of the Scriptures?</hi>
+               </p>
+               <p>And what <hi>Quaker</hi> was it, that ('tis ſaid in that page) <hi>was quite ſilent upon thy</hi> doating unneceſſary <hi>Queſtion</hi> pretended to be put to him, to wit, <hi>What things Jeſus did that were not writ<g ref="char:EOLhyphen"/>ten?</hi> and anſwer it thy ſelf, if thou canſt.</p>
+               <p>And what marvel is it, that many of thy Evil-deviſed <hi>Court</hi> were ready to
+<hi>ſmile,</hi> and cryed out, <hi>How are theſe People Deluded? Who</hi> and <hi>how many</hi> in thy <hi>Court</hi> were they that were ready to <hi>ſmile,</hi> and cryed out, <hi>How are theſe People Deluded, before the things charged againſt them were at all proved?</hi> Art thou not aſhamed to pretend, that thou haſt confuted the <hi>Quaker;</hi> whileſt 'tis nothing but that which thou in thy Evil Heart haſt Imagined and forged againſt him, that thou ſmiteſt at? That there is wholſom and ſound Judgment againſt <hi>Sin</hi> and <hi>Evil</hi> throughout the <hi>Scriptures,</hi> was always plainly owned by the Quaker; yet we know not where it calls it ſelf <hi>Sr. Sa<g ref="char:EOLhyphen"/>cred Scripture,</hi> or that thou haſt plainly proved it to be the
+<hi>only Judge of Sin, and Rule of Faith and Practice:</hi> Might'ſt thou not as well have placed this Authority properly more immediately upon Christ Jeſus, as he is the <hi>Word</hi> of
+<hi>God,</hi> who was in the Beginning with God, and before the World was, and the Scriptures were written? But ought the <hi>Light</hi> of Chriſt Jeſus and <hi>Revelation</hi> of God ſo to be ſlighted and rejected by thee, as to be no rule of <hi>Faith</hi> and <hi>Practice,</hi> or that it may not be concerned in <hi>Judging Sin?</hi> And may it not be affirmed a certain and undeniable means to diſcover <hi>Deceivers</hi> and <hi>Impoſtors</hi> where ever they are, or whatſoever they may pretend to?
+<pb n="14" facs="tcp:33075:9"/> and no other <hi>Light</hi> or <hi>Revelation</hi> doth the Quaker exhort People to come to or believe in, but the <hi>Light</hi> of Chriſt, and <hi>Revelation</hi> from God of his Son Chriſt Jeſus; by which none are left to an <hi>uncertainty,</hi> as thou blindly imagineſt.</p>
+               <p>What Quaker was it, that asked for <hi>Mediums,</hi> and that <hi>to make out what we ſay and affirm?</hi> produce him if thou can; or that ſaid to thee, <hi>Thou looked for a ſign;</hi> though probably he had not been miſtaken, if he had told thee ſo? Haſt thou convinced the
+<hi>Pagan</hi> thou ſpeakeſt of, that what thou ſayeſt is true? the Quaker cannot believe Fictions; bring thy <hi>Pagan</hi> forth, that the Quaker may diſcourſe him upon this ſubject.</p>
+               <p>Is the agreement betwixt the <hi>Papiſt</hi> and <hi>Quaker</hi> that thou ſtorms at, any thing, but what thou haſt made the Quaker to be, that he ne<g ref="char:EOLhyphen"/>ver was, and to ſay, what he never ſaid; to ſay, <hi>What is Sr. Sa<g ref="char:EOLhyphen"/>cred Scripture, but a Lifeleſs Fellow, a pittiful Paper-Judge, a Dead Letter:</hi> which words the Quaker denys utterly, putting thee upon the prooff thereof? Alſo when any <hi>Jeſuit</hi> ſaid to any <hi>Quaker</hi> thereupon, <hi>Well ſaid Brother,</hi> or <hi>A Noſe of Wax?</hi> certainly, That which was before time I do believe will in due time make fully manifeſt, whether the <hi>Papiſt</hi> and <hi>Quaker,</hi> or
+<hi>Papiſt</hi> and the <hi>Ana<g ref="char:EOLhyphen"/>baptiſts</hi> do moſt agree, and whether this
+<hi>Anabaptiſt-Teacher</hi> may not prove too much like a <hi>Noſe of Wax,</hi> when his Faith and Practice comes to be further tryed?</p>
+               <p>How dares thou ſay in the Margin of thy Book, page 247. <hi>That there came in</hi> (pretending to thy <hi>Court) an Out-Landiſh Man, of a tauney Complexion, that called the Scriptures of Truth,</hi> thy pretended <hi>Judge, Lord,</hi> and ſaid, <hi>He was a</hi> Pagan
+<hi>Born, an</hi> In<g ref="char:EOLhyphen"/>dian <hi>dwelling in the furtheſt parts of</hi> America, that manifeſted any Contradiction to the Quaker about the <hi>Light</hi> of Chriſt within, or its ſufficiency, as the Quakers do really affirm and bear Teſtimony of it? But how then can any of you
+<hi>Baptiſt-Teachers</hi> any more render us as <hi>Pagans</hi> to the World, ſeeing the
+<hi>Pagan</hi> and you ſo well agree? But how came the uncertain ſound of thy Trumpet to be heard as far as
+<pb n="15" facs="tcp:33075:9"/> 
+                  <hi>America?</hi> How many <hi>Indians</hi> or <hi>Pagans</hi> haſt thou by thy pretended <hi>Judge</hi> convinced of the Evil of their ways and doings, without the
+<hi>Light</hi> of Chriſt Jeſus, which thou ſo hates, and endeavours to ex<g ref="char:EOLhyphen"/>clude from being any <hi>Judge of Sin, Being</hi> (as thou darkly ſayeſt) <hi>wholly Ignorant, or know nothing of one great Statute-Book, wherein many poſitive good Laws are written, which the Pri<g ref="char:EOLhyphen"/>ſoner at the Barr hath abominably violated,</hi> page 247. I think of ſo little as thou haſt writ againſt the Quaker, never more Mallice, Deceit and Falſhood appeared: Can there be any
+<hi>Statute-Book</hi> or <hi>Good Lawes</hi> in it, and the light of Chriſt within people be wholly <hi>Ignorant or know nothing of one great Statute Book, &amp;c?</hi> I would thou ſaw thy own Confuſion and Ignorance of the Light of Chriſt and the way thereof. How can the Light of the glorious Goſpel, that ſhines in Peoples Hearts, be ignorant or know nothing of the glorious Goſpel of Jeſus Chriſt, or any Precept or Ordinance thereof, which the <hi>Pri<g ref="char:EOLhyphen"/>ſoner</hi> (as thou calls him) at thy pretended <hi>Bar</hi> hath <hi>Abominably violated,</hi> without any prooff againſt thy ſuppoſed Priſoner at thy I<g ref="char:EOLhyphen"/>magined <hi>Bar?</hi> And prove what are thoſe <hi>good Laws,</hi> as thou calls them, he hath ſo violated: as for the <hi>Good Lawes</hi> of the <hi>Old</hi> and <hi>New Teſtament</hi> the Quaker hath not violated, but is a doer thereof, which is more juſtifiable in the eye of the great <hi>Law giver,</hi> then to profeſs and talk of the <hi>Lawes of God,</hi> and be a daily breaker and not doer of the ſame.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
